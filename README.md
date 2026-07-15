@@ -167,12 +167,12 @@
   />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://img.shields.io/github/stars/XiaoyuShenDev?affiliations=OWNER%2CCOLLABORATOR&label=TOTAL%20STARS&logo=github&logoColor=DFC477&labelColor=080A0D&color=B88A35&style=for-the-badge"
     alt="Xiaoyu Shen total GitHub stars"
   />
-</p>
+</p> -->
 
 <br/>
 
